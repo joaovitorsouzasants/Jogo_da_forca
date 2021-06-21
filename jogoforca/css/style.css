@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    background-color: rgb(29, 23, 23);
+    padding: 10px;
+}
+p{
+    color: rgb(175, 73, 0);
+}
+.float-right{
+    color: rgb(175, 73, 0);
+}
+
+#corpo {
+    background-color:lightblue;
+}
